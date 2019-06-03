@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Shorted</title>
+	</head>
+	<body>
+		<center>
+			<br>
+			<img src="https://www.dropbox.com/s/g1t4x2o2nnppuvs/logo%20shortened.png?dl=1" alt="URL shortener!">
+			<h2><%= params[:obs] %></h2>
+			<h3>Please check your URL: <u><%= params[:original_url] %></u></h3>
+			<button onclick="goBack()"><<< Back</button>
+		</center>
+		<script>
+			function goBack() {
+			  window.history.back();
+			}
+		</script>
+	</body>
+</html>

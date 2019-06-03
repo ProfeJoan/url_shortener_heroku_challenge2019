@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Shorted</title>
+	</head>
+	<body>
+		<center>
+			<img src="https://www.dropbox.com/s/g1t4x2o2nnppuvs/logo%20shortened.png?dl=1" alt="URL shortener!">
+			<h2>TOP 100 of URLs_Shortener - Challenge 2019</h2>
+		</center>
+		<% @top.each do |top| %>
+		   URL original: <%= top.original_url %><br>
+		   Title: <%= top.title %><br>
+		   Short URL: <%= top.short_url %><br>
+		   Visit count: <b><%= top.visit_count %></b><br><br>
+		<% end %>
+	</body>
+</html>
