@@ -65,6 +65,10 @@ $ curl http://localhost:3000/top
 ```
 
 # Where do you want try the application?
+
+## Using Heroku
+Enjoy at **[https://serene-sands-11478.herokuapp.com/](https://serene-sands-11478.herokuapp.com/)** :-)
+
 ## Using Docker
 **1. First, test your Docker Compose installation:**
 ```sh
@@ -107,9 +111,6 @@ And please check this aditional endpoint [http://localhost:3000/top](http://loca
 
 ***Just in case...***
 By default, this application will expose port 3000, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image and up the application, **repeat the previous commands again**.
-
-## Using Heroku
-Let me a minute...
 
 # Next steps
  - Make a awesome web client for my URLs_shortener   "-_-"
