@@ -1,7 +1,7 @@
 # URL Shortener enabled to Heroku
 [![](http://www.josevicenteleon.com/wp-content/uploads/2016/06/acortadores-url.jpg)](https://serene-sands-11478.herokuapp.com/)
 
-A solution by Joan Quesada.
+A solution by JO
 
 You can check the requirements at [Full Stack Challenge 2019](https://drive.google.com/file/d/1pDolgbZ-tH192V9HTLl30f85X44DAs1Y/view?usp=sharing).
 
