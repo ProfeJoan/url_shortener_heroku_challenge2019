@@ -3,8 +3,6 @@
 
 A solution by JO
 
-You can check the requirements at [Full Stack Challenge 2019](https://drive.google.com/file/d/1pDolgbZ-tH192V9HTLl30f85X44DAs1Y/view?usp=sharing).
-
 Special thanks for creators and mainteiners of [Sidekiq](https://github.com/mperham/sidekiq) and [MetaInspector](https://www.rubydoc.info/gems/metainspector/4.2.1) gems.
 
 # Things you may want to know
