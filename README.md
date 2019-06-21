@@ -1,5 +1,5 @@
 # URL Shortener enabled to Heroku
-[![](https://ucb2d1a933c7b93f623ffd4a2e7e.dl.dropboxusercontent.com/cd/0/get/AjNkH0mBTX2fEpPp4B5ZT7gFeGJ696aAxaMzNV4XtKslb1u0IvZYV8vwDuclBLBRR4Y3i26nZMLbaQTTaXf9hr7qv6-aPLfxW5uuLxz-PYyKIQ/file?dl=1)](https://serene-sands-11478.herokuapp.com/)
+[![](http://www.tricks4me.com/wp-content/uploads/2017/02/url-shorteners.png)](https://serene-sands-11478.herokuapp.com/)
 
 A solution by Joan Quesada.
 
